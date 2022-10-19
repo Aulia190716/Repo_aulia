@@ -1,0 +1,22 @@
+{
+  "name": "repo_aulia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aulia190716/Repo_aulia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aulia190716/Repo_aulia/issues"
+  },
+  "homepage": "https://github.com/Aulia190716/Repo_aulia#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
